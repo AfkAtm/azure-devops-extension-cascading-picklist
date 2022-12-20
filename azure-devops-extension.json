@@ -54,7 +54,7 @@
       "type": "ms.vss-web.hub",
       "description": "Configuration hub for a cascading lists",
       "targets": [
-        "ms.vss-web.project-admin-hub-group"
+        "ms.vss-web.collection-admin-hub-group"
       ],
       "properties": {
         "name": "Cascading Lists",

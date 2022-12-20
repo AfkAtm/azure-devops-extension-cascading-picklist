@@ -58,7 +58,7 @@ class ConfigurationStorage {
 
   public constructor(configurationType: ConfigurationType, projectId: string) {
     this.storageService = new StorageService(
-      `${configurationType}|${projectId}`,
+      `${configurationType}`,
       ScopeType.Default
     );
   }
