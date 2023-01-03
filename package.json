@@ -1,9 +1,9 @@
 {
-  "name": "cascading-picklists-extenstion",
+  "name": "cascading-picklists-extenstion-org",
   "version": "1.0.0",
-  "author": "Anton Kovalyov",
+  "author": "Michael Merrell",
   "license": "",
-  "description": "Extenstion that allows to customize cascading picklists for Azure DevOps.",
+  "description": "Extenstion that allows to customize cascading picklists at the Organization level for Azure DevOps.",
   "private": true,
   "scripts": {
     "start": "webpack-dev-server --hot --progress --static ./ --port 44300 --https",

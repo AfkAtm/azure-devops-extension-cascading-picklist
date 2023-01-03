@@ -25,7 +25,7 @@ Have you ever wanted to have a picklist show only subset of values depending on 
 
    ![minor release picklist](images/picklist-child.png 'Configure Picklist')
 
-3. Open the "Cascading List" hub in project settings. From here you can configure the JSON rules that drive how the cascading picklist would work. Below is the sample for Major and Minor releases.
+3. Open the "Cascading List" hub in organization settings. From here you can configure the JSON rules that drive how the cascading picklist would work. Below is the sample for Major and Minor releases.
 
    ```
    {
