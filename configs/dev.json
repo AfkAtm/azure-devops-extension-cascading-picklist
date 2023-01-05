@@ -1,7 +1,7 @@
 {
-    "id": "cascading-picklists-extension-dev",
-    "name": "Cascading Lists (dev)",
-    "publisher": "ms-devlabs",
+    "id": "cascading-picklists-extension-org-dev",
+    "name": "Cascading Lists Org Level (dev)",
+    "publisher": "MichaelMerrell",
     "public": false,
     "baseUri": "https://localhost:44300"
-}   
+}
